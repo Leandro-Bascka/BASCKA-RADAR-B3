@@ -8,7 +8,7 @@ from streamlit_autorefresh import st_autorefresh
 # BASCKA RADAR B3 - PAINEL STREAMLIT
 # ==========================================================
 
-GITHUB_USER = "SEU_USUARIO_GITHUB"
+GITHUB_USER = "Leandro-Bascka"
 GITHUB_REPO = "BASCKA_RADAR_B3"
 GITHUB_BRANCH = "main"
 
