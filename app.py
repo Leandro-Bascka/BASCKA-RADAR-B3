@@ -9,7 +9,7 @@ from streamlit_autorefresh import st_autorefresh
 # ==========================================================
 
 GITHUB_USER = "Leandro-Bascka"
-GITHUB_REPO = "BASCKA_RADAR_B3"
+GITHUB_REPO = "BASCKA-RADAR-B3"
 GITHUB_BRANCH = "main"
 
 URL_DADOS = (
