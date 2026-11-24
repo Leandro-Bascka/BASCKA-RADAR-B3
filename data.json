@@ -1,0 +1,12 @@
+
+{
+    "atualizado_em": "Aguardando primeira execucao",
+    "fuso": "America/Sao_Paulo",
+    "status": "aguardando",
+    "mensagem": "O radar ainda nao executou.",
+    "acoes_analisadas": 0,
+    "acoes": [],
+    "alertas": [],
+    "quantidade_alertas": 0,
+    "erros": []
+}
