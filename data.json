@@ -1,12 +1,10 @@
-
 {
-    "atualizado_em": "Aguardando primeira execucao",
-    "fuso": "America/Sao_Paulo",
-    "status": "aguardando",
-    "mensagem": "O radar ainda nao executou.",
-    "acoes_analisadas": 0,
-    "acoes": [],
-    "alertas": [],
-    "quantidade_alertas": 0,
-    "erros": []
+  "atualizado_em": "23/11/2026 21:31:29",
+  "status": "fora_do_pregao",
+  "mensagem": "Fora do horario do pregao.",
+  "acoes_analisadas": 0,
+  "acoes": [],
+  "alertas": [],
+  "erros": [],
+  "quantidade_alertas": 0
 }
